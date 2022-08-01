@@ -18,8 +18,8 @@ Used Artsy API and Google Cloud Platform (GCP).
 
 
 3) **Artist Search - Android App (Artsy-9)** =>
-Utilized Java, JSON, Android Lifecycle and Android Studio for Android app development. 
-Learnt the essentials of Google’s Material design rules for designing Android apps and to use Artsy APIs and the Android SDK. 
+Utilized Java, JSON, and Android Studio for Android app development. 
+Learnt Android Lifecycle, the essentials of Google’s Material design rules for designing Android apps and to use Artsy APIs and the Android SDK. 
 Utilized third party libraries like Picasso, Glide and Volley.
 
       You can view this project at [Artsy 9](https://youtu.be/25WrNF5HvFE/).
