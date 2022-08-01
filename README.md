@@ -3,14 +3,16 @@
 Created the following projects as part of Web Technologies (CSCI-571) coursework at University of Southern California. 
 
 1) **Artist Search (Artsy-6)** =>
-Implemented an online art showcase platform. This project was built using Flask framework. HTML, CSS and JavaScript were used for creating web pages. 
+Implemented an online art showcase platform using Artsy's REST API. This project was built using Flask framework. 
+HTML, CSS and JavaScript were used for creating web pages. 
 Used fetch API for AJAX. Used Artsy API and Google Cloud Platform (GCP). 
 
       You can view this project at [Artsy 6](https://youtu.be/CF1vxgs1hnQ/).
   
 
 2) **Artist Search (Artsy-8)** =>
-Implemented an online art showcase platform. Created backend applications using JavaScript/Node.js in server side with Express framework. 
+Implemented an online art showcase platform using Artsy's REST API. 
+Created backend applications using JavaScript/Node.js in server side with Express framework. 
 Used Angular, TypeScript, and Bootstrap in client side and creating responsive frontend. Utilized HttpClientModule of Angular for AJAX. 
 Used Artsy API and Google Cloud Platform (GCP).
 
